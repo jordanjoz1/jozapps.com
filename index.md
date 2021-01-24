@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Converter
 
-You can use the [editor on GitHub](https://github.com/jordanjoz1/jozapps.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Simple app for converting common units in the Metric and English systems of measurement. Choose the unit type, enter a quantity, select the units, and presto!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### User Reviews
 
-### Markdown
+>"I use this daily and it hasn't failed me yet." ([Full Review](https://play.google.com/store/apps/details?id=com.jozapps.MetricConverter&reviewId=17543553355018552867))
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+>"By far the most complete and easy to use converter." ([Full Review](https://play.google.com/store/apps/details?id=com.jozapps.MetricConverter&reviewId=10864128276848380156))
 
-```markdown
-Syntax highlighted code block
+>"Very easy to use, responds very quickly" ([Full Review](https://play.google.com/store/apps/details?id=com.jozapps.MetricConverter&reviewId=04999477731577989697))
 
-# Header 1
-## Header 2
-### Header 3
+>"Accurate and useful." ([Full Review](https://play.google.com/store/apps/details?id=com.jozapps.MetricConverter&reviewId=14979534381353437290))
 
-- Bulleted
-- List
+### Privacy Policy
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jordanjoz1/jozapps.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+TERMS OF SERVICE: This applications reserves the right to anonymously track and report a user's activity (limited to pageviews and conversion types) for the purpose of app improvement through Google Analytics.  The developer is not liable for any damages due to imprecision or inaccuracy of any conversions.
